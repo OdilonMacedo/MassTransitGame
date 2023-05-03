@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2fnbZQ32PiYoXl2wQqUHh6yC20wQcE6HzicEbTKH0Zw=",
+  "Source": "MassTransitGame",
+  "BasePath": "_content/MassTransitGame",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
